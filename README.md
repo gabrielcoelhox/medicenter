@@ -9,3 +9,5 @@ Exercício realizado como aprendizado das aulas do curso da B7WEB.
 - JavaScript
 
 ### Acessar site
+
+https://gabrielcoelhox.github.io/medicenter/

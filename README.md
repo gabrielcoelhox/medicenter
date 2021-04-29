@@ -12,7 +12,8 @@ Exercício realizado como aprendizado das aulas do curso da B7WEB.
 
 ### Acessar site
 
-<<<<<<< HEAD
+https://gabrielcoelhox.github.io/medicenter/
+
 ## :camera: Veja
 
 ![GIF](github/animacao.gif)
@@ -20,6 +21,3 @@ Exercício realizado como aprendizado das aulas do curso da B7WEB.
 ## Mobile
 
 ![MObile GIF](github/mobile.gif)
-=======
-https://gabrielcoelhox.github.io/medicenter/
->>>>>>> b628e9cc81ef9a365d689e5967c5cb348eb7ea64
